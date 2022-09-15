@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>MarkDown App</h1>
+      <h1>Gallery Creation</h1>
     </div>
   );
 }
