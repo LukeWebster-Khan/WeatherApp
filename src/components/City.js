@@ -1,5 +1,5 @@
 import React from "react";
-const City = () => {
+const City = ({ fetchWeather }) => {
   return <></>;
 };
 export default City;
